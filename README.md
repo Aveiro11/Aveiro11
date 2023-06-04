@@ -1,4 +1,10 @@
-### Hi there 👋
+![vegeta_big_bang_gif__by_goku_ssj7_d8rl3gz](https://github.com/Aveiro11/Aveiro11/assets/74791612/93b007ad-556f-4665-9636-688500a70e80)
+
+## Hello, welcome to my GitHub! <img src="![wave](https://github.com/Aveiro11/Aveiro11/assets/74791612/141327cc-f796-417e-9731-b630efce7cf8)" height="25px" width="25px">
+
+<a href="[https://medium.com/@zluvsand](https://www.linkedin.com/in/adib-wahid-79916b213/)">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
+</a>
 
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
