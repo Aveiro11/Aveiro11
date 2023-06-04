@@ -4,7 +4,7 @@
 
 ## Hello, welcome to Adibs GitHub! <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/96829221-206a-41a9-a7e5-d3ad2614e291" height ="30" width="30">
 
-<a href="[https://medium.com/@zluvsand](https://www.linkedin.com/in/adib-wahid-79916b213/)">
+<a href="(https://www.linkedin.com/in/adib-wahid-79916b213/)">
     <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/adib-wahid-79916b213/">
