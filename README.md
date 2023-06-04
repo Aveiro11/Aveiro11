@@ -1,4 +1,4 @@
-<img src="![vegeta_big_bang_gif__by_goku_ssj7_d8rl3gz](https://github.com/Aveiro11/Aveiro11/assets/74791612/93b007ad-556f-4665-9636-688500a70e80)" height="5px" width="5px" >
+<img src="![vegeta_big_bang_gif__by_goku_ssj7_d8rl3gz](https://github.com/Aveiro11/Aveiro11/assets/74791612/d23576f6-c814-4b00-aac2-ff38103c937e)" height="5px" width="5px" >
 
 ## Hello, welcome to my GitHub! <img src="![wave](https://github.com/Aveiro11/Aveiro11/assets/74791612/141327cc-f796-417e-9731-b630efce7cf8)" height="25px" width="25px">
 
