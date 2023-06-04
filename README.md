@@ -1,4 +1,4 @@
-<img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/a1a4bde4-6ada-4d86-803a-6371211e3360">
+<img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/a1a4bde4-6ada-4d86-803a-6371211e3360" height="25px" width="25px">
 
 
 ## Hello, welcome to Adibs GitHub! <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/9ac6e23a-b3e5-4c5e-87bd-ccf1346fbc02" height="25px" width="25px">
