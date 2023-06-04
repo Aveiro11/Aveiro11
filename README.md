@@ -1,8 +1,7 @@
 <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/a1a4bde4-6ada-4d86-803a-6371211e3360)">
 
 
-## Hello, welcome to my GitHub! <img src="(https://github.com/Aveiro11/Aveiro11/assets/74791612/42680844-d530-42d6-a40a-3457d891629f)
-8-7d1291109c47)" height="20px" width="20px">
+## Hello, welcome to my GitHub! <img src="(https://github.com/Aveiro11/Aveiro11/assets/74791612/9ac6e23a-b3e5-4c5e-87bd-ccf1346fbc02)">
 
 <a href="[https://medium.com/@zluvsand](https://www.linkedin.com/in/adib-wahid-79916b213/)">
     <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
