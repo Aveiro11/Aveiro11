@@ -1,12 +1,14 @@
 ![kylo_ren_by_z_studios_d9m7edj](https://github.com/Aveiro11/Aveiro11/assets/74791612/acc61b73-2ccd-4fc9-bf68-7d1291109c47)
 
 
-## Hello, welcome to my GitHub! <img src="![wave](https://github.com/Aveiro11/Aveiro11/assets/74791612/141327cc-f796-417e-9731-b630efce7cf8)" height="25px" width="25px">
+## Hello, welcome to my GitHub! <img src="![kylo_ren_by_z_studios_d9m7edj](https://github.com/Aveiro11/Aveiro11/assets/74791612/84379633-2e5b-468d-8edf-0a27b1aa3f90)" height="25px" width="25px">
 
 <a href="[https://medium.com/@zluvsand](https://www.linkedin.com/in/adib-wahid-79916b213/)">
     <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
 </a>
-
+<a href="https://www.linkedin.com/in/adib-wahid-79916b213/">
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+</a>
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
