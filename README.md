@@ -1,4 +1,4 @@
-<img src="![kylo_ren_by_z_studios_d9m7edj](https://github.com/Aveiro11/Aveiro11/assets/74791612/acc61b73-2ccd-4fc9-bf68-7d1291109c47)">
+![kylo_ren_by_z_studios_d9m7edj](https://github.com/Aveiro11/Aveiro11/assets/74791612/acc61b73-2ccd-4fc9-bf68-7d1291109c47)
 
 
 ## Hello, welcome to my GitHub! <img src="![wave](https://github.com/Aveiro11/Aveiro11/assets/74791612/141327cc-f796-417e-9731-b630efce7cf8)" height="25px" width="25px">
