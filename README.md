@@ -12,7 +12,7 @@
         An amateur who's got a long way ahead.<br>
     </i><br>
 <p align="center"><img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/866f55d1-7ec4-44b3-a7eb-57783161efe1
-"/>
+">
 <a href="https://www.linkedin.com/in/adib-wahid-79916b213/" >
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=blue"/></a>
     <a href="https://leetcode.com/Major_Stroheim/" align="center">
