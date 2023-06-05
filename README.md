@@ -2,8 +2,8 @@
 <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/a1a4bde4-6ada-4d86-803a-6371211e3360" center></p>
 
 
-<h2 align="center"> Hello there!<br> 
-<sup align="center" >**in general kenobis voice**</sup></h2>
+<h2 align="center"> Hello there!<br></h2>
+<b><sup align="center" >**in general kenobis voice**</sup></b>
 <p align="center">Welcome to my GitHub! <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/74e0fffb-4994-4b1b-aeaa-97b6fbb113e3"> </p>
 <p align="center">
     <b>Assalamualaikum to whoever visting my Profile!</b><br><br>
