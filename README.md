@@ -18,7 +18,8 @@
     <a href="https://leetcode.com/Major_Stroheim/" align="center">
     <img src="https://img.shields.io/badge/LEETCODE-12100E?logo=leetcode&color=282A36&logoColor=orange"/></a></p>
     
-###LANGUAGES
+### LANGUAGES
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Aveiro11)   
 
 <!--
