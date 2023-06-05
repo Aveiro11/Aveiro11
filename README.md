@@ -65,6 +65,10 @@
     <img src="https://komarev.com/ghpvc/?username=Aveiro11&color=blue&style=flat)" />
   </a>
 </p>
+<p align="center">
+    <b>Arigato and Jaa Ne!</b><br><br>
+    </p>
+
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
