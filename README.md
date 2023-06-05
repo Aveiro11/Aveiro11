@@ -67,7 +67,8 @@
 </p>
 <p align="center">
     <b>Arigato and Jaa Ne!</b><br><br>
-    <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/4489582b-4de1-4e20-a643-39b82e964bfa">
+    <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/316bcb1c-8f25-4031-aa13-980d0d354df5
+">
     </p>
  
 
