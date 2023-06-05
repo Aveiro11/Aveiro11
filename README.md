@@ -16,8 +16,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=blue"/></a>
 <a href="https://leetcode.com/Major_Stroheim/" align="center">
     <img src="https://img.shields.io/badge/LEETCODE-12100E?logo=leetcode&color=282A36&logoColor=orange"/></a>
-    <a href="https://dcbadge.vercel.app/api/shield/624468365578207232/"></a>
-</p>
+</p> ![](https://dcbadge.vercel.app/api/shield/624468365578207232)
     
 ### LANGUAGES 
 
