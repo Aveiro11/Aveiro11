@@ -17,7 +17,7 @@
     <a href="https://leetcode.com/Major_Stroheim/" align="center">
     <img src="https://img.shields.io/badge/LEETCODE-12100E?logo=leetcode&color=282A36&logoColor=orange"/></a></p>
     
-### LANGUAGES ![flying_m_bison_by_orkimides_d74a29a](https://github.com/Aveiro11/Aveiro11/assets/74791612/aa9d849a-3f30-4486-a845-cbf55ff0298f)
+### LANGUAGES ![flying_m_bison_by_orkimides_d74a29a](https://github.com/Aveiro11/Aveiro11/assets/74791612/aa9d849a-3f30-4486-a845-cbf55ff0298f)|height=30px
 
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Aveiro11)   
