@@ -2,7 +2,7 @@
 <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/a1a4bde4-6ada-4d86-803a-6371211e3360" center></p>
 
 
-<h2 align="center"> Hello there! 
+<h2 align="center"> Hello there!<br> 
     <sup align="center" >**in general kenobis voice**</sup></h2>
 <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/7c044c7c-b0d5-417f-a90a-75a5fc749119" align="center">
 <h2 align="center">Welcome to my GitHub! </h2>
