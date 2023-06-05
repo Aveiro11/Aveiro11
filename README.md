@@ -7,7 +7,7 @@
     <b>Assalamualaikum to whoever visting my Profile!</b><br><br>
     <i>
         I'm Adib Wahid Bin Quader.<br>
-        <s>Or Adib Wahid in short if your jaw hurts by the long name</s><br>
+        <s>Or Adib Wahid in short if that long name hurts your jaw.</s><br>
         Currently trying to stay on track with Machine Learning and Software Developement.<br>
         An amateur who's got a long way ahead.<br>
     </i><br>
