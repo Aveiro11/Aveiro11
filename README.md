@@ -11,8 +11,8 @@
         Currently trying to stay on track with Machine Learning and Software Developement.<br>
         An amateur who's got a long way ahead.<br>
     </i><br>
-<p align="center"><img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/866f55d1-7ec4-44b3-a7eb-57783161efe1
-">
+<p align="center">
+<img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/866f55d1-7ec4-44b3-a7eb-57783161efe1"height ="30" width="30">
 <a href="https://www.linkedin.com/in/adib-wahid-79916b213/" >
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=blue"/></a>
     <a href="https://leetcode.com/Major_Stroheim/" align="center">
