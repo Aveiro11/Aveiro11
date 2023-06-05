@@ -3,7 +3,7 @@
 
 
 <h2 align="center"> Hello there!<br> 
-    <sup align="center" >**in general kenobis voice**</sup></h2><br>
+    <sup align="center" >**in general kenobis voice**</sup></h2>
 <h2 align="center">Welcome to my GitHub! <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/74e0fffb-4994-4b1b-aeaa-97b6fbb113e3"> </h2>
 <p align="center">
     <b>Assalamualaikum to whoever visting my Profile!</b><br><br>
