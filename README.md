@@ -21,6 +21,7 @@
 ### LANGUAGES
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Aveiro11)   
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Aveiro11)   
 
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
