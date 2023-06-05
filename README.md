@@ -14,8 +14,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adib-wahid-79916b213/" >
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=blue"/></a>
-    <a href="https://leetcode.com/Major_Stroheim/" align="center">
-    <img src="https://img.shields.io/badge/LEETCODE-12100E?logo=leetcode&color=282A36&logoColor=orange"/></a></p>
+<a href="https://leetcode.com/Major_Stroheim/" align="center">
+    <img src="https://img.shields.io/badge/LEETCODE-12100E?logo=leetcode&color=282A36&logoColor=orange"/></a>
+![](https://dcbadge.vercel.app/api/shield/USERID)
+</p>
     
 ### LANGUAGES 
 
@@ -36,6 +38,32 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Aveiro11) 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Aveiro11) 
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Aveiro11) 
+
+### OS
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Aveiro11)
+
+<details>
+<p align="center">
+  <a href="https://github.com/Aveiro11">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aveiro11&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aveiro11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aveiro11&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aveiro11">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aveiro11&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aveiro11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aveiro11&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/Aveiro11">
+    <img src="https://komarev.com/ghpvc/?username=Aveiro11&color=blue&style=flat)" />
+  </a>
+</p>
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
