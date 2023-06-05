@@ -30,7 +30,11 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/Aveiro11)  
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/Aveiro11) 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/Aveiro11) 
-[![Nltk](https://img.shields.io/badge/nltk-black?style=for-the-badge&logo=numpy)](https://github.com/Aveiro11)  
+
+### Technologies & Frameworks
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Aveiro11) 
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Aveiro11) 
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Aveiro11) 
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
