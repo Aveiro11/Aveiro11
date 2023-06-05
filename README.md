@@ -16,9 +16,10 @@
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=blue"/></a>
 <a href="https://leetcode.com/Major_Stroheim/" align="center">
     <img src="https://img.shields.io/badge/LEETCODE-12100E?logo=leetcode&color=282A36&logoColor=orange"/></a>
+<a href="https://discordapp.com/users/624468365578207232">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
 </p> 
-![](https://dcbadge.vercel.app/api/shield/624468365578207232)
-    
+
 ### LANGUAGES 
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Aveiro11)  
