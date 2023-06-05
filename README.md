@@ -59,11 +59,6 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/Aveiro11">
-    <img src="https://komarev.com/ghpvc/?username=Aveiro11&color=blue&style=flat)" />
-  </a>
 </p>
 <p align="center">
     <b>Arigato and Jaa Ne!</b><br><br>
