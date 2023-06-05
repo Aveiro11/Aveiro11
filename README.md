@@ -4,8 +4,7 @@
 
 <h2 align="center"> Hello there!<br> 
     <sup align="center" >**in general kenobis voice**</sup></h2><br>
-    <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/ff9786b7-a517-45ff-9cf2-0f439f33acb8" align="center"><br>
-<h2 align="center">Welcome to my GitHub! </h2>
+<h2 align="center">Welcome to my GitHub! <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/74e0fffb-4994-4b1b-aeaa-97b6fbb113e3"> </h2>
 <p align="center">
     <b>Assalamualaikum to whoever visting my Profile!</b><br><br>
     <i>
