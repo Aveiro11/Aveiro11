@@ -24,9 +24,9 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Aveiro11)
 
 ### Machine Learning
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)]
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)]
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)]
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Aveiro11)  
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/Aveiro11)  
+[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/Aveiro11)  
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
