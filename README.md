@@ -2,9 +2,9 @@
 <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/a1a4bde4-6ada-4d86-803a-6371211e3360" center></p>
 
 
-<h2 align="center"> Hello there! <sup><h5>**in general kenobis voice**</h5></sup>  welcome to my GitHub! <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/96829221-206a-41a9-a7e5-d3ad2614e291" height ="30" width="30"></h2>
+<h2 align="center"> Hello there! <sup><h5>**in general kenobis voice**</h5></sup>  Welcome to my GitHub! <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/96829221-206a-41a9-a7e5-d3ad2614e291" height ="30" width="30"></h2>
 <p align="center">
-    <b>Welcome to my Profile!</b><br><br>
+    <b>Assalamualaikum to whoever visting my Profile!</b><br><br>
     <i>
         I'm Adib Wahid Bin Quader.<br>
         <s>Or Adib Wahid in short if your jaw hurts by the long name</s><br>
