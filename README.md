@@ -8,8 +8,8 @@
     <i>
         I'm Adib Wahid Bin Quader.<br>
         <s>Or Adib Wahid in short if your jaw hurts by the long name</s><br>
-        Currently learning to walk in Machine Learning and Software Developement without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Currently trying to stay on track with Machine Learning and Software Developement.<br>
+        An amateur who's got a long way ahead.<br>
     </i><br>
 <p align="center">
 <a href="https://www.linkedin.com/in/adib-wahid-79916b213/" >
