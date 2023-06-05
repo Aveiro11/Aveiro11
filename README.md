@@ -67,8 +67,9 @@
 </p>
 <p align="center">
     <b>Arigato and Jaa Ne!</b><br><br>
+    <img src="https://github.com/Aveiro11/Aveiro11/assets/74791612/d0434ff5-340e-44c4-8711-a3a740a9c5d8">
     </p>
-    ![obi_wan_death_by_z_studios_dc4xltr](https://github.com/Aveiro11/Aveiro11/assets/74791612/d0434ff5-340e-44c4-8711-a3a740a9c5d8)
+ 
 
 
 <!--
