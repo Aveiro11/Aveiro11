@@ -29,7 +29,7 @@
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Aveiro11)  
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/Aveiro11)  
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/Aveiro11) 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/Aveiro11) 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/Aveiro11) 
 [![Nltk](https://img.shields.io/badge/nltk-black?style=for-the-badge&logo=numpy)](https://github.com/Aveiro11)  
 <!--
 **Aveiro11/Aveiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
