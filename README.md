@@ -17,7 +17,7 @@
 <a href="https://leetcode.com/Major_Stroheim/" align="center">
     <img src="https://img.shields.io/badge/LEETCODE-12100E?logo=leetcode&color=282A36&logoColor=orange"/></a>
 <a href="https://discordapp.com/users/624468365578207232">
-    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Discord-12100E.svg?style=for-the-badge&logo=Discord&logoColor=white"></a>
 </p> 
 
 ### LANGUAGES 
