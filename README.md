@@ -10,7 +10,7 @@
     <i>
         I'm Adib Wahid Quader.<br>
         <s>Or Adib Wahid in short if that long name hurts your jaw.</s><br>
-        Currently trying to stay on track with Machine Learning and Data Engineering.<br>
+        Currently trying to stay on track with Machine Learning and Natural Language Processing.<br>
         An amateur who's got a long way ahead.<br>
     </i><br>
 <p align="center">
